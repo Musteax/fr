@@ -1,6 +1,6 @@
 {
     "socialSignup": {
-        "header": "Register",
+        "header": "Register in french",
         "title": "Welcome to the noury app",
         "subtitle": "There are lots of delicious snacks, drinks and meals waiting for you",
         "buttonGoogle": "Continue with Google",
@@ -92,15 +92,23 @@
         },
         "user": {
             "title": "New user profile",
-            "subtitles": ["Specify food preferences for personalized discounts"]
+            "subtitles": [
+                "Specify food preferences for personalized discounts"
+            ]
         },
         "userExperience": {
             "title": "Improved user experience",
-            "subtitles": ["Clearer status indicators during transactions", "All receipts downloadable as PDF"]
+            "subtitles": [
+                "Clearer status indicators during transactions",
+                "All receipts downloadable as PDF"
+            ]
         },
         "setting": {
             "title": "Advanced functionalities",
-            "subtitles": ["Registration and login via Google Sign-In", "Translation into multiple languages"]
+            "subtitles": [
+                "Registration and login via Google Sign-In",
+                "Translation into multiple languages"
+            ]
         },
         "button": "Continue"
     },
@@ -129,7 +137,8 @@
         "phoneNumberCountryCode": "Phone number needs country code prefix",
         "birthDateInavalid": "Please enter a valid date.",
         "birthDateInFuture": "Are you from the future?",
-        "ageLessThan10": "Please call your parents for permission."
+        "ageLessThan10": "Please call your parents for permission.",
+        "birthDateInvalid": ""
     },
     "eatingPreferences": {
         "firstTitle": "What is your diet type?",
