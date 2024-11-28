@@ -218,7 +218,7 @@
         "nouryLive": "Noury-Live",
         "happyPoints": "Happy-Points",
         "logout": "Log-out",
-        "language": "Language"
+        "language": "langue"
     },
     "about": {
         "title": "About",
@@ -398,7 +398,7 @@
         "errorMessage": "Failed to delete account!"
     },
     "language": {
-        "title": "Language",
+        "title": "langue",
         "en": "English",
         "de": "German",
         "fr": "French"
